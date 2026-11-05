@@ -1,0 +1,15 @@
+{
+  "repository": "module-cms-hello-dart-desktop",
+  "capabilityKey": "liberusoftware/module-cms-hello",
+  "presentation": "dart-desktop",
+  "package": "module_cms_hello_dart_desktop",
+  "foundation": "module-boilerplate-dart-desktop",
+  "foundationCommit": "5ccb3f077d7279dad684f2aa24e4c9d27f0d1246",
+  "canonicalPlan": "projects/cms/nextjs/cms-hello.md",
+  "presentationPlan": "projects/cms/features/cms-hello.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "cms"
+  ]
+}
